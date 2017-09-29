@@ -40,7 +40,7 @@ CHAPTER ONE
 
 #### 源代码：
 
-[作业1.1源码](https://raw.githubusercontent.com/X-sc-fan/computationalphysics_N2015301020074/master/ChapterOne/mat.py)
+[作业1.1源码](https://raw.githubusercontent.com/X-sc-fan/computationalphysics_N2015301020074/master/ChapterOne/CHAPTER1_1.py)
 
 ####  计算结果：
 
