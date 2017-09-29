@@ -70,7 +70,7 @@ CHAPTER ONE
 
 #### 源代码：
 
-
+[作业1.3源码](https://raw.githubusercontent.com/X-sc-fan/computationalphysics_N2015301020074/master/ChapterOne/CHAPTER1_3.py)
 
 #### 计算结果：
 
